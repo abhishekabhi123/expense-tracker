@@ -4,8 +4,8 @@ A full-stack personal expense tracking app built with Node.js/Express + React.
 
 ## Live Demo
 
-- Frontend: _will be updated after deployment_
-- Backend: _will be updated after deployment_
+- Frontend: https://expense-tracker-frontend-omega-eight.vercel.app
+- Backend: https://expense-tracker-api-5lxl.onrender.com
 
 ## Stack
 
